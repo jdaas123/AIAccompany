@@ -1,12 +1,12 @@
 {
-  "favorability": 27,
-  "mood": "\u88ab\u5192\u72af\u4e86\uff0c\u60f3\u62c9\u9ed1",
+  "favorability": 13,
+  "mood": "\u4e0d\u60f3\u7406",
   "energy": "\u5e73\u5e38",
-  "reply_style": "\u51b7\u5230\u6781\u70b9",
+  "reply_style": "\u4e0d\u56de\u590d",
   "hunger": "\u6709\u70b9\u997f",
-  "is_hidden": false,
-  "delay_seconds": 15,
+  "is_hidden": true,
+  "delay_seconds": 0,
   "current_scene": "\u5bbf\u820d",
-  "current_action": "\u8eba\u5e8a\u4e0a\u5237\u624b\u673a\uff0c\u72b9\u8c6b\u8981\u4e0d\u8981\u8d77\u5e8a\u5403\u996d",
-  "last_update": "2026-05-28 13:44:24"
+  "current_action": "\u8eba\u5728\u5e8a\u4e0a\u5237\u624b\u673a",
+  "last_update": "2026-05-28 15:39:50"
 }
